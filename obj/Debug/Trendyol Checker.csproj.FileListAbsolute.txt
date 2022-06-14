@@ -1,0 +1,13 @@
+D:\Trendyol Checker\Trendyol Checker\bin\Debug\Trendyol Checker.exe.config
+D:\Trendyol Checker\Trendyol Checker\bin\Debug\Trendyol Checker.exe
+D:\Trendyol Checker\Trendyol Checker\bin\Debug\Trendyol Checker.pdb
+D:\Trendyol Checker\Trendyol Checker\bin\Debug\Colorful.Console.dll
+D:\Trendyol Checker\Trendyol Checker\bin\Debug\Leaf.xNet.dll
+D:\Trendyol Checker\Trendyol Checker\bin\Debug\xNet.dll
+D:\Trendyol Checker\Trendyol Checker\obj\Debug\Trendyol Checker.csproj.AssemblyReference.cache
+D:\Trendyol Checker\Trendyol Checker\obj\Debug\Trendyol_Checker.Properties.Resources.resources
+D:\Trendyol Checker\Trendyol Checker\obj\Debug\Trendyol Checker.csproj.GenerateResource.cache
+D:\Trendyol Checker\Trendyol Checker\obj\Debug\Trendyol Checker.csproj.CoreCompileInputs.cache
+D:\Trendyol Checker\Trendyol Checker\obj\Debug\Trendyol Checker.csproj.CopyComplete
+D:\Trendyol Checker\Trendyol Checker\obj\Debug\Trendyol Checker.exe
+D:\Trendyol Checker\Trendyol Checker\obj\Debug\Trendyol Checker.pdb
